@@ -3,7 +3,7 @@
 Main website: https://stapm.gitlab.io/
 
 ## Overview
-The aim of the STAPM research programme is to identify and evaluate approaches to reducing the harm from tobacco and alcohol, with the aim of improving commissioning in a public health policy context, i.e. providing knowledge to support benefits achieved by policymakers.
+The aim of the STAPM research programme at the [School of Health and Related Research](https://www.sheffield.ac.uk/scharr) at the University of Sheffield, UK, is to identify and evaluate approaches to reducing the harm from tobacco and alcohol, with the aim of improving commissioning in a public health policy context, i.e. providing knowledge to support benefits achieved by policymakers.
 
 The two objectives of the STAPM research programme are:
 
