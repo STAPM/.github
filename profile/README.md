@@ -13,5 +13,9 @@ The two objectives of the STAPM research programme are:
 The STAPM platform is not linked to the tobacco or alcohol industry and is conducted without industry funding or influence.
 
 ## Code
-The modelling was developed in R and R studio, with particular attention to utilising new developments in the software environment to organise, document, and version control code. A set of internal STAPM R packages have been developed that contain code used for particular purposes, e.g. to estimate smoking state transition probabilities from cross-sectional survey data. Packaging up code into modular functions and packages makes the processes applied in modelling easier to document, adapt and reuse across projects. The long term goal is to make the STAPM code open source. Some STAPM code is starting to become publicly available on this Github repository, but the majority is currently available only to the project team on Gitlab.  
+The modelling was developed in R and R studio, with particular attention to utilising new developments in the software environment to organise, document, and version control code.   
+
+A set of internal STAPM R packages have been developed that contain code used for particular purposes, e.g. to estimate smoking state transition probabilities from cross-sectional survey data (see https://stapm.gitlab.io/software.html). Packaging up code into modular functions and packages makes the processes applied in modelling easier to document, adapt and reuse across projects.   
+
+The long term goal is to make the STAPM code open source. Some STAPM code is starting to become publicly available on this Github repository, but the majority is currently available only to the project team on Gitlab.  
 
